@@ -1,2 +1,2 @@
 # torneiomm
-implementação WEB de um torneio com sistema eliminatório mata-mata
+implementação WEB de um torneio com sistema eliminatório mata-mata, utilizando ASP.NET Core, Entity Framework Core, LocalDB e o padrão MVC.
